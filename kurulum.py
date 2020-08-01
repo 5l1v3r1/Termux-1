@@ -58,6 +58,7 @@ except:
         tr = open(".skip", "r")
         main()
     except:
+        os.system('clear')
         name = input('Sana Nasıl Hitap Etmeliyim Lütfen Adını Gir >> ')
         time.sleep(0.3)
         os.system('clear')
