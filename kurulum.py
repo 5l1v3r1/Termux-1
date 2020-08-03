@@ -64,7 +64,7 @@ except:
         os.system('clear')
         printz('Merhaba '+name+'! Öncelikle Programımızı Kullandığın İçin Sana Teşekkür Etmek İsteriz.')
         print('\n')
-        printz(name+' Sana Öncelikle Programımızı Açıklayayım. Bu Program Termux ve Linuxa Yeni Başlayan Kullanıcılar İçin Üretildi ve Size Temel Eğitim ve Kurulumları Yapmayı Amaçlıyoruz.')
+        printz(name+' Sana Öncelikle Programımızı Açıklayayım.\nBu Program Termux ve Linuxa Yeni Başlayan Kullanıcılar İçin Üretildi ve Size Temel Eğitim ve Kurulumları Yapmayı Amaçlıyoruz.')
         print('\n')
         printz('Merak Etme Hepimiz Bir Yerden Başladık Ve Her Şeyi Teker Teker Öğrenmemiz Gerekti.')
         print('\n')
